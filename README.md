@@ -14,6 +14,7 @@
 ## Data Structures
 |**번호**|**문제(풀이)**|**언어**|
 |:---:|:---:|:---:|
+|1158|[요세푸스 문제](https://github.com/kimhyerii/BOJ/blob/main/Code/1158.java)|`JAVA`|
 |5397|[키로거](https://github.com/kimhyerii/BOJ/blob/main/Code/5397.java)|`JAVA`|
 |10828|[스택](https://github.com/kimhyerii/BOJ/blob/main/Code/10828.java)|`JAVA`|
 |18258|[큐 2](https://github.com/kimhyerii/BOJ/blob/main/Code/18258.java)|`JAVA`|
@@ -41,7 +42,7 @@
 
 <br><br>
 
-## backtracking
+## Backtracking
 |**번호**|**문제(풀이)**|**언어**|
 |:---:|:---:|:---:|
 |15650|[N과 M(2)](https://github.com/kimhyerii/BOJ/blob/main/Code/15650.java)|`JAVA`|
@@ -52,6 +53,7 @@
 |**번호**|**문제(풀이)**|**언어**|
 |:---:|:---:|:---:|
 |10989|[수 정렬하기 3](https://github.com/kimhyerii/BOJ/blob/main/Code/10989.java)|`JAVA`|
+|11399|[ATM](https://github.com/kimhyerii/BOJ/blob/main/Code/11399.java)|`JAVA`|
 |11650|[좌표 정렬하기](https://github.com/kimhyerii/BOJ/blob/main/Code/11650.java)|`JAVA`|
 
 <br><br>
@@ -61,5 +63,21 @@
 |**번호**|**문제(풀이)**|**언어**|
 |:---:|:---:|:---:|
 |13335|[트럭](https://github.com/kimhyerii/BOJ/blob/main/Code/13335.java)|`JAVA`|
+
+<br><br>
+
+
+## Dynamic Programming
+|**번호**|**문제(풀이)**|**언어**|
+|:---:|:---:|:---:|
+|1003|[피보나치 함수](https://github.com/kimhyerii/BOJ/blob/main/Code/1003.java)|`JAVA`|
+
+<br><br>
+
+
+## Greedy
+|**번호**|**문제(풀이)**|**언어**|
+|:---:|:---:|:---:|
+|11399|[ATM](https://github.com/kimhyerii/BOJ/blob/main/Code/11399.java)|`JAVA`|
 
 <br><br>
