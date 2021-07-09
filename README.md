@@ -5,6 +5,7 @@
 ## Implementation
 |**번호**|**문제(풀이)**|**언어**|
 |:---:|:---:|:---:|
+|1475|[방 번호](https://github.com/kimhyerii/BOJ/blob/main/Code/1475.java)|`C++`|
 |2562|[최댓값](https://github.com/kimhyerii/BOJ/blob/main/Code/2562.java)|`JAVA`|
 |10807|[개수 세기](https://github.com/kimhyerii/BOJ/blob/main/Code/10807.java)|`JAVA`|
 |13335|[트럭](https://github.com/kimhyerii/BOJ/blob/main/Code/13335.java)|`JAVA`|
