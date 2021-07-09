@@ -16,6 +16,7 @@
 |**번호**|**문제(풀이)**|**언어**|
 |:---:|:---:|:---:|
 |1158|[요세푸스 문제](https://github.com/kimhyerii/BOJ/blob/main/Code/1158.java)|`JAVA`|
+|3273|[두 수의 합](https://github.com/kimhyerii/BOJ/blob/main/Code/3273.java)|`C++`|
 |5397|[키로거](https://github.com/kimhyerii/BOJ/blob/main/Code/5397.java)|`JAVA`|
 |10828|[스택](https://github.com/kimhyerii/BOJ/blob/main/Code/10828.java)|`JAVA`|
 |18258|[큐 2](https://github.com/kimhyerii/BOJ/blob/main/Code/18258.java)|`JAVA`|
