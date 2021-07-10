@@ -7,8 +7,8 @@
 |:---:|:---:|:---:|
 |1475|[방 번호](https://github.com/kimhyerii/BOJ/blob/main/Code/1475.cpp)|`C++`|
 |2562|[최댓값](https://github.com/kimhyerii/BOJ/blob/main/Code/2562.java)|`JAVA`|
-|10807|[개수 세기](https://github.com/kimhyerii/BOJ/blob/main/Code/10807.java)|`JAVA`|
 |10773|[제로](https://github.com/kimhyerii/BOJ/blob/main/Code/10773.cpp)|`C++`|
+|10807|[개수 세기](https://github.com/kimhyerii/BOJ/blob/main/Code/10807.java)|`JAVA`|
 |13335|[트럭](https://github.com/kimhyerii/BOJ/blob/main/Code/13335.java)|`JAVA`|
 
 <br><br>
