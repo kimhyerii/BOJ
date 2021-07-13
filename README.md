@@ -10,6 +10,7 @@
 |10773|[제로](https://github.com/kimhyerii/BOJ/blob/main/Code/10773.cpp)|`C++`|
 |10807|[개수 세기](https://github.com/kimhyerii/BOJ/blob/main/Code/10807.java)|`JAVA`|
 |13335|[트럭](https://github.com/kimhyerii/BOJ/blob/main/Code/13335.java)|`JAVA`|
+|20057|[마법사 상어와 토네이도](https://github.com/kimhyerii/BOJ/blob/main/Code/20057.cpp)|`C++`|
 |20058|[마법사 상어와 파이어스톰](https://github.com/kimhyerii/BOJ/blob/main/Code/20058.cpp)|`C++`|
 
 <br><br>
@@ -70,6 +71,7 @@
 |**번호**|**문제(풀이)**|**언어**|
 |:---:|:---:|:---:|
 |13335|[트럭](https://github.com/kimhyerii/BOJ/blob/main/Code/13335.java)|`JAVA`|
+|20057|[마법사 상어와 토네이도](https://github.com/kimhyerii/BOJ/blob/main/Code/20057.cpp)|`C++`|
 |20058|[마법사 상어와 파이어스톰](https://github.com/kimhyerii/BOJ/blob/main/Code/20058.cpp)|`C++`|
 
 <br><br>
