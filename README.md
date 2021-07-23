@@ -98,3 +98,11 @@
 |11399|[ATM](https://github.com/kimhyerii/BOJ/blob/main/Code/11399.java)|`JAVA`|
 
 <br><br>
+
+
+## Mathematics
+|**번호**|**문제(풀이)**|**언어**|
+|:---:|:---:|:---:|
+|1978|[소수 찾기](https://github.com/kimhyerii/BOJ/blob/main/Code/1978.cpp)|`C++`|
+
+<br><br>
