@@ -103,6 +103,8 @@
 ## Mathematics
 |**번호**|**문제(풀이)**|**언어**|
 |:---:|:---:|:---:|
+|1929|[소수 구하기](https://github.com/kimhyerii/BOJ/blob/main/Code/1929.cpp)|`C++`|
 |1978|[소수 찾기](https://github.com/kimhyerii/BOJ/blob/main/Code/1978.cpp)|`C++`|
+|11653|[소인수분해](https://github.com/kimhyerii/BOJ/blob/main/Code/11653.cpp)|`C++`|
 
 <br><br>
