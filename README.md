@@ -5,6 +5,7 @@
 ## Implementation
 |**번호**|**문제(풀이)**|**언어**|
 |:---:|:---:|:---:|
+|1244|[스위치 켜고 끄기](https://github.com/kimhyerii/BOJ/blob/main/Code/1244.java)|`JAVA`|
 |1475|[방 번호](https://github.com/kimhyerii/BOJ/blob/main/Code/1475.cpp)|`C++`|
 |2562|[최댓값](https://github.com/kimhyerii/BOJ/blob/main/Code/2562.java)|`JAVA`|
 |10773|[제로](https://github.com/kimhyerii/BOJ/blob/main/Code/10773.cpp)|`C++`|
@@ -74,6 +75,7 @@
 ## Simulation
 |**번호**|**문제(풀이)**|**언어**|
 |:---:|:---:|:---:|
+|1244|[스위치 켜고 끄기](https://github.com/kimhyerii/BOJ/blob/main/Code/1244.java)|`JAVA`|
 |13335|[트럭](https://github.com/kimhyerii/BOJ/blob/main/Code/13335.java)|`JAVA`|
 |19238|[스타트 택시](https://github.com/kimhyerii/BOJ/blob/main/Code/19238.cpp)|`C++`|
 |20055|[컨베이어 벨트 위의 로봇](https://github.com/kimhyerii/BOJ/blob/main/Code/20055.cpp)|`C++`|
