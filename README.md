@@ -8,6 +8,7 @@
 |1244|[스위치 켜고 끄기](https://github.com/kimhyerii/BOJ/blob/main/Code/1244.java)|`JAVA`|
 |1475|[방 번호](https://github.com/kimhyerii/BOJ/blob/main/Code/1475.cpp)|`C++`|
 |2562|[최댓값](https://github.com/kimhyerii/BOJ/blob/main/Code/2562.java)|`JAVA`|
+|2563|[색종이](https://github.com/kimhyerii/BOJ/blob/main/Code/2563.java)|`JAVA`|
 |10773|[제로](https://github.com/kimhyerii/BOJ/blob/main/Code/10773.cpp)|`C++`|
 |10807|[개수 세기](https://github.com/kimhyerii/BOJ/blob/main/Code/10807.java)|`JAVA`|
 |13335|[트럭](https://github.com/kimhyerii/BOJ/blob/main/Code/13335.java)|`JAVA`|
@@ -23,6 +24,7 @@
 |**번호**|**문제(풀이)**|**언어**|
 |:---:|:---:|:---:|
 |1158|[요세푸스 문제](https://github.com/kimhyerii/BOJ/blob/main/Code/1158.java)|`JAVA`|
+|2493|[탑](https://github.com/kimhyerii/BOJ/blob/main/Code/2493.java)|`JAVA`|
 |3273|[두 수의 합](https://github.com/kimhyerii/BOJ/blob/main/Code/3273.cpp)|`C++`|
 |5397|[키로거](https://github.com/kimhyerii/BOJ/blob/main/Code/5397.java)|`JAVA`|
 |10773|[제로](https://github.com/kimhyerii/BOJ/blob/main/Code/10773.cpp)|`C++`|
@@ -51,6 +53,7 @@
 ## Recursion
 |**번호**|**문제(풀이)**|**언어**|
 |:---:|:---:|:---:|
+|1780|[종이의 개수](https://github.com/kimhyerii/BOJ/blob/main/Code/1780.java)|`JAVA`|
 |17478|[재귀함수가 뭔가요?](https://github.com/kimhyerii/BOJ/blob/main/Code/17478.java)|`JAVA`|
 
 <br><br>
