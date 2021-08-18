@@ -56,6 +56,7 @@
 |**번호**|**문제(풀이)**|**언어**|
 |:---:|:---:|:---:|
 |1780|[종이의 개수](https://github.com/kimhyerii/BOJ/blob/main/Code/1780.java)|`JAVA`|
+|1992|[쿼드트리](https://github.com/kimhyerii/BOJ/blob/main/Code/1992.java)|`JAVA`|
 |17478|[재귀함수가 뭔가요?](https://github.com/kimhyerii/BOJ/blob/main/Code/17478.java)|`JAVA`|
 
 <br><br>
@@ -116,3 +117,13 @@
 |11653|[소인수분해](https://github.com/kimhyerii/BOJ/blob/main/Code/11653.cpp)|`C++`|
 
 <br><br>
+
+
+## Divide And Conquer
+|**번호**|**문제(풀이)**|**언어**|
+|:---:|:---:|:---:|
+|1992|[쿼드트리](https://github.com/kimhyerii/BOJ/blob/main/Code/1992.java)|`JAVA`|
+
+
+<br><br>
+
