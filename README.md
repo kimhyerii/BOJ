@@ -46,6 +46,7 @@
 |**번호**|**문제(풀이)**|**언어**|
 |:---:|:---:|:---:|
 |1012|[유기농 배추](https://github.com/kimhyerii/BOJ/blob/main/Code/1012.java)|`JAVA`|
+|1987|[알파벳](https://github.com/kimhyerii/BOJ/blob/main/Code/1987.java)|`JAVA`|
 |11724|[연결 요소의 개수](https://github.com/kimhyerii/BOJ/blob/main/Code/11724.py)|`Python`|
 |19238|[스타트 택시](https://github.com/kimhyerii/BOJ/blob/main/Code/19238.cpp)|`C++`|
 |20058|[마법사 상어와 파이어스톰](https://github.com/kimhyerii/BOJ/blob/main/Code/20058.cpp)|`C++`|
@@ -64,6 +65,7 @@
 ## Backtracking
 |**번호**|**문제(풀이)**|**언어**|
 |:---:|:---:|:---:|
+|1987|[알파벳](https://github.com/kimhyerii/BOJ/blob/main/Code/1987.java)|`JAVA`|
 |15650|[N과 M(2)](https://github.com/kimhyerii/BOJ/blob/main/Code/15650.java)|`JAVA`|
 
 <br><br>
