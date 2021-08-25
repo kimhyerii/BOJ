@@ -12,6 +12,7 @@
 |10773|[제로](https://github.com/kimhyerii/BOJ/blob/main/Code/10773.cpp)|`C++`|
 |10807|[개수 세기](https://github.com/kimhyerii/BOJ/blob/main/Code/10807.java)|`JAVA`|
 |13335|[트럭](https://github.com/kimhyerii/BOJ/blob/main/Code/13335.java)|`JAVA`|
+|16236|[아기 상어](https://github.com/kimhyerii/BOJ/blob/main/Code/16236.java)|`JAVA`|
 |16935|[배열 돌리기 3](https://github.com/kimhyerii/BOJ/blob/main/Code/16935.java)|`JAVA`|
 |17406|[배열 돌리기 4](https://github.com/kimhyerii/BOJ/blob/main/Code/17406.java)|`JAVA`|
 |19238|[스타트 택시](https://github.com/kimhyerii/BOJ/blob/main/Code/19238.cpp)|`C++`|
@@ -48,6 +49,7 @@
 |1012|[유기농 배추](https://github.com/kimhyerii/BOJ/blob/main/Code/1012.java)|`JAVA`|
 |1987|[알파벳](https://github.com/kimhyerii/BOJ/blob/main/Code/1987.java)|`JAVA`|
 |11724|[연결 요소의 개수](https://github.com/kimhyerii/BOJ/blob/main/Code/11724.py)|`Python`|
+|16236|[아기 상어](https://github.com/kimhyerii/BOJ/blob/main/Code/16236.java)|`JAVA`|
 |19238|[스타트 택시](https://github.com/kimhyerii/BOJ/blob/main/Code/19238.cpp)|`C++`|
 |20058|[마법사 상어와 파이어스톰](https://github.com/kimhyerii/BOJ/blob/main/Code/20058.cpp)|`C++`|
 
@@ -85,6 +87,7 @@
 |:---:|:---:|:---:|
 |1244|[스위치 켜고 끄기](https://github.com/kimhyerii/BOJ/blob/main/Code/1244.java)|`JAVA`|
 |13335|[트럭](https://github.com/kimhyerii/BOJ/blob/main/Code/13335.java)|`JAVA`|
+|16236|[아기 상어](https://github.com/kimhyerii/BOJ/blob/main/Code/16236.java)|`JAVA`|
 |19238|[스타트 택시](https://github.com/kimhyerii/BOJ/blob/main/Code/19238.cpp)|`C++`|
 |20055|[컨베이어 벨트 위의 로봇](https://github.com/kimhyerii/BOJ/blob/main/Code/20055.cpp)|`C++`|
 |20056|[마법사 상어와 파이어볼](https://github.com/kimhyerii/BOJ/blob/main/Code/20056.cpp)|`C++`|
