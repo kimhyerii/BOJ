@@ -16,10 +16,6 @@ public class Main {
 		int r, c;
 		int dist;
 
-		public Pos(int r, int c) {
-			this.r = r;
-			this.c = c;
-		}
 		public Pos(int r, int c, int dist) {
 			this.r = r;
 			this.c = c;
@@ -27,7 +23,7 @@ public class Main {
 		}
 
 		@Override
-		public int compareTo(Pos o) {
+		public int compareTo(Pos o) { // 거리 -> 행 -> 열
 			if(this.dist == o.dist) {
 				if(this.r == o.r) {
 					return this.c - o.c;
@@ -38,14 +34,11 @@ public class Main {
 		}
 	}
 	
-	static int[][] map;
-	static int N;
-	
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		N = Integer.parseInt(br.readLine());
-		map = new int[N][N];
+		int N = Integer.parseInt(br.readLine());
+		int[][] map = new int[N][N];
 		
 		Pos shark = null;
 		int size = 2;
@@ -83,19 +76,23 @@ public class Main {
 					int newr = r + dr[i];
 					int newc = c + dc[i];
 					
-					if(newr < 0 || newr == N || newc < 0 || newc == N) continue;
-					if(visited[newr][newc]) continue;
+					if(newr < 0 || newr == N || newc < 0 || newc == N || visited[newr][newc]) continue;
 					
+					visited[newr][newc] = true;
+
+					// 지나 갈 때
 					if(map[newr][newc] == 0 || map[newr][newc] == size) {
-						visited[newr][newc] = true;
 						temp.offer(new Pos(newr, newc, dist + 1));
 					}
+					// 잡아먹을 때
 					else if(map[newr][newc] < size) {						
-						visited[newr][newc] = true;
 						fishes.add(new Pos(newr, newc, dist + 1));
 						next = false;
 					}
+					// else 상어보다 큰 물고기 - 못 지나가서 큐에 추가 X					
 				}
+				
+				// 이번 범위 내에 먹을 물고기 없음 -> 다음 범위도 보기
 				if(next) {
 					while(!temp.isEmpty()) {
 						move.offer(temp.poll());
@@ -103,7 +100,7 @@ public class Main {
 				}
 			}			
 			
-			// 있으면 이동
+			// 가까운 물고기로 이동
 			if(fishes.size() > 0) {
 				Collections.sort(fishes);
 				Pos fish = fishes.get(0);
