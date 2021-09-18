@@ -15,6 +15,7 @@
 |16236|[아기 상어](https://github.com/kimhyerii/BOJ/blob/main/Code/16236.java)|`JAVA`|
 |16935|[배열 돌리기 3](https://github.com/kimhyerii/BOJ/blob/main/Code/16935.java)|`JAVA`|
 |17406|[배열 돌리기 4](https://github.com/kimhyerii/BOJ/blob/main/Code/17406.java)|`JAVA`|
+|17472|[다리 만들기 2](https://github.com/kimhyerii/BOJ/blob/main/Code/17472.java)|`JAVA`|
 |19238|[스타트 택시](https://github.com/kimhyerii/BOJ/blob/main/Code/19238.cpp)|`C++`|
 |20055|[컨베이어 벨트 위의 로봇](https://github.com/kimhyerii/BOJ/blob/main/Code/20055.cpp)|`C++`|
 |20056|[마법사 상어와 파이어볼](https://github.com/kimhyerii/BOJ/blob/main/Code/20056.cpp)|`C++`|
@@ -51,6 +52,7 @@
 |11724|[연결 요소의 개수](https://github.com/kimhyerii/BOJ/blob/main/Code/11724.py)|`Python`|
 |14502|[연구소](https://github.com/kimhyerii/BOJ/blob/main/Code/14502.java)|`JAVA`|
 |16236|[아기 상어](https://github.com/kimhyerii/BOJ/blob/main/Code/16236.java)|`JAVA`|
+|17472|[다리 만들기 2](https://github.com/kimhyerii/BOJ/blob/main/Code/17472.java)|`JAVA`|
 |19238|[스타트 택시](https://github.com/kimhyerii/BOJ/blob/main/Code/19238.cpp)|`C++`|
 |20058|[마법사 상어와 파이어스톰](https://github.com/kimhyerii/BOJ/blob/main/Code/20058.cpp)|`C++`|
 
@@ -130,6 +132,11 @@
 |:---:|:---:|:---:|
 |1992|[쿼드트리](https://github.com/kimhyerii/BOJ/blob/main/Code/1992.java)|`JAVA`|
 
-
 <br><br>
 
+## Minimum Spanning Tree
+|**번호**|**문제(풀이)**|**언어**|
+|:---:|:---:|:---:|
+|17472|[다리 만들기 2](https://github.com/kimhyerii/BOJ/blob/main/Code/17472.java)|`JAVA`|
+
+<br><br>
