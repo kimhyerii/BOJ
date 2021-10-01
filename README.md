@@ -14,6 +14,7 @@
 |13335|[트럭](https://github.com/kimhyerii/BOJ/blob/main/Code/13335.java)|`JAVA`|
 |16236|[아기 상어](https://github.com/kimhyerii/BOJ/blob/main/Code/16236.java)|`JAVA`|
 |16935|[배열 돌리기 3](https://github.com/kimhyerii/BOJ/blob/main/Code/16935.java)|`JAVA`|
+|17143|[낚시왕](https://github.com/kimhyerii/BOJ/blob/main/Code/17143.java)|`JAVA`|
 |17144|[미세먼지 안녕!](https://github.com/kimhyerii/BOJ/blob/main/Code/17144.java)|`JAVA`|
 |17406|[배열 돌리기 4](https://github.com/kimhyerii/BOJ/blob/main/Code/17406.java)|`JAVA`|
 |17472|[다리 만들기 2](https://github.com/kimhyerii/BOJ/blob/main/Code/17472.java)|`JAVA`|
@@ -94,6 +95,7 @@
 |1244|[스위치 켜고 끄기](https://github.com/kimhyerii/BOJ/blob/main/Code/1244.java)|`JAVA`|
 |13335|[트럭](https://github.com/kimhyerii/BOJ/blob/main/Code/13335.java)|`JAVA`|
 |16236|[아기 상어](https://github.com/kimhyerii/BOJ/blob/main/Code/16236.java)|`JAVA`|
+|17143|[낚시왕](https://github.com/kimhyerii/BOJ/blob/main/Code/17143.java)|`JAVA`|
 |17144|[미세먼지 안녕!](https://github.com/kimhyerii/BOJ/blob/main/Code/17144.java)|`JAVA`|
 |19238|[스타트 택시](https://github.com/kimhyerii/BOJ/blob/main/Code/19238.cpp)|`C++`|
 |20055|[컨베이어 벨트 위의 로봇](https://github.com/kimhyerii/BOJ/blob/main/Code/20055.cpp)|`C++`|
