@@ -2,6 +2,14 @@
 백준 문제풀이 정리
 <br><br>
 
+
+## Bruteforcing
+|**번호**|**문제(풀이)**|**언어**|
+|:---:|:---:|:---:|
+|17471|[게리맨더링](https://github.com/kimhyerii/BOJ/blob/main/Code/17471.java)|`JAVA`|
+
+<br><br>
+
 ## Implementation
 |**번호**|**문제(풀이)**|**언어**|
 |:---:|:---:|:---:|
@@ -56,6 +64,7 @@
 |11724|[연결 요소의 개수](https://github.com/kimhyerii/BOJ/blob/main/Code/11724.py)|`Python`|
 |14502|[연구소](https://github.com/kimhyerii/BOJ/blob/main/Code/14502.java)|`JAVA`|
 |16236|[아기 상어](https://github.com/kimhyerii/BOJ/blob/main/Code/16236.java)|`JAVA`|
+|17471|[게리맨더링](https://github.com/kimhyerii/BOJ/blob/main/Code/17471.java)|`JAVA`|
 |17472|[다리 만들기 2](https://github.com/kimhyerii/BOJ/blob/main/Code/17472.java)|`JAVA`|
 |19238|[스타트 택시](https://github.com/kimhyerii/BOJ/blob/main/Code/19238.cpp)|`C++`|
 |20058|[마법사 상어와 파이어스톰](https://github.com/kimhyerii/BOJ/blob/main/Code/20058.cpp)|`C++`|
